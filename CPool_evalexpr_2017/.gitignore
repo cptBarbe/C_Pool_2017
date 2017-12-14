@@ -1,0 +1,7 @@
+*~
+*.o
+\#*\#
+.\#*
+eval_expr
+a.out
+libmy.a

@@ -1,0 +1,6 @@
+#*#
+*~
+*.o*
+*.gc*
+main.c
+my_putchar.c
